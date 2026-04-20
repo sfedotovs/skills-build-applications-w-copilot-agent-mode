@@ -1,0 +1,6 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "npx create-react-app": true,
+        "npm install": true
+    }
+}
